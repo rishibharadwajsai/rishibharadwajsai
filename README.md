@@ -4,7 +4,7 @@
 - 👀 I’m interested in Full stack web development, Machine Learning and Data Science.
 - 🌱 I’m currently learning Backend development and Data Science.
 - 💞️ I’m looking to collaborate on some awesome projects from these two domains.
-- 📫 How to reach me: 📞 +91 6305952537 | 📧 rishilella.1767@gmail.com | 🔗 LinkedIn - https://shorturl.at/clVX9
+- 📫 How to reach me: 📞 +91 6305952537 | 📧 rishilella.1767@gmail.com | 🔗 LinkedIn - https://shorturl.at/clVX9 | 💻😊 GitHub - https://github.com/rishibharadwajsai
 - 😄 Pronouns: He/him
 
 ## 🎓 Education
