@@ -1,5 +1,5 @@
 # 💫 About Me:
- Hi, I’m Lella Rishi Bharadwaj Sai 👋
+ Hi, I’m Rishi Bharadwaj Sai Lella👋
 <br>👀 I’m interested in Full stack web development.<br>🌱 I’m currently learning Backend development.<br>💞️ I’m looking to collaborate on some awesome projects from this domain.<br>
 📫 How to reach me: 📞 +91 6305952537 | 📧 rishi.lella123@gmail.com | 🔗 LinkedIn - https://www.linkedin.com/in/rishi-bharadwaj-sai-lella-65a000185/ | 💻😊 GitHub - https://github.com/rishibharadwajsai
 - 😄 Pronouns: He/him
@@ -16,24 +16,36 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rishibharadwajsai&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## 🌟 Experience
+
+### Student Research Intern
+**Centre for Advanced Data Science**, VIT Chennai, India  
+*May 2024 – Present*
+- Developing a machine learning model using the PIMA dataset from India to accurately detect and classify diabetes cases.
+- Applied classification techniques to train and optimize the model for effective prediction of diabetic status based on relevant health indicators.
+- Utilized Python and machine learning libraries to build a robust solution contributing to early detection and management of diabetes in healthcare applications
+
 ## 🛠️ Projects
 
 ### Portfolio
 _HTML, CSS, JavaScript_  
 Sept 2023
-- Developing a responsive portfolio website
+- Developed a simple, static portfolio website using basic HTML and CSS.
+- Designed to showcase personal projects, skills, and information in a clean and accessible format.
+- Features straightforward navigation and is responsive for all devices.
 
 ### Microphone preAmplifier
 _LTspice Simulator, Hardware_  
 Oct 2023 - Dec 2023
-- Designing a circuit for preAmplifier
-- Connecting with the Power Amplifier circuit and getting the Amplified output
+- Designed and simulated a preAmplifier circuit using LTspice and Tinkercad.
+- Successfully connected it with a Power Amplifier circuit to achieve amplified output.
 
 ### Smart Dental Hygiene Device
 _Verilog_  
 Oct 2023 - Dec 2023
-- Designing a digital system circuit using basic logic gates and other
-- Implementation of digital circuit using hardware components
+- Designed a digital system circuit using basic logic gates and Verilog.
+- Implemented the design using Tinkercad and ModelSim HDL Simulator for testing.
+
 
 ## 🏅 Licenses and Certifications
 
