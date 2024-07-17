@@ -1,7 +1,7 @@
 # 💫 About Me:
  Hi, I’m Rishi Bharadwaj Sai Lella👋
 <br>👀 I’m interested in Full stack web development.<br>🌱 I’m currently learning Backend development.<br>💞️ I’m looking to collaborate on some awesome projects from this domain.<br>
-📫 How to reach me: 📞 +91 6305952537 | 📧 rishi.lella123@gmail.com | 🔗 LinkedIn - https://www.linkedin.com/in/rishi-bharadwaj-sai-lella-65a000185/ | 💻😊 GitHub - https://github.com/rishibharadwajsai
+📫 How to reach me: 📧 rishi.lella123@gmail.com | 🔗 LinkedIn - https://www.linkedin.com/in/rishi-bharadwaj-sai-lella-65a000185/
 - 😄 Pronouns: He/him
 
 
