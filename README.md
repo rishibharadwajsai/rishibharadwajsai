@@ -47,18 +47,6 @@ Oct 2023 - Dec 2023
 - Implemented the design using Tinkercad and ModelSim HDL Simulator for testing.
 
 
-## 🏅 Licenses and Certifications
-
-- Python Data Structures | Coursera
-- C++ Essential Training | Linkedin Learning
-- The Complete Web-development bootcamp | Udemy
-- Supervised Machine Learning: Regression and Classification | Coursera
-
-## 👥 Positions of Responsibility
-
-- Technical Team Member | IEEE Computer Society - VITC (Nov 2022 – Present)
-- Technical Team Member | Iothinc - VITC (June 2023 – Present)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
