@@ -16,36 +16,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rishibharadwajsai&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🌟 Experience
-
-### Student Research Intern
-**Centre for Advanced Data Science**, VIT Chennai, India  
-*May 2024 – Present*
-- Developing a machine learning model using the PIMA dataset from India to accurately detect and classify diabetes cases.
-- Applied classification techniques to train and optimize the model for effective prediction of diabetic status based on relevant health indicators.
-- Utilized Python and machine learning libraries to build a robust solution contributing to early detection and management of diabetes in healthcare applications
-
-## 🛠️ Projects
-
-### Portfolio
-_HTML, CSS, JavaScript_  
-Sept 2023
-- Developed a simple, static portfolio website using basic HTML and CSS.
-- Designed to showcase personal projects, skills, and information in a clean and accessible format.
-- Features straightforward navigation and is responsive for all devices.
-
-### Microphone preAmplifier
-_LTspice Simulator, Hardware_  
-Oct 2023 - Dec 2023
-- Designed and simulated a preAmplifier circuit using LTspice and Tinkercad.
-- Successfully connected it with a Power Amplifier circuit to achieve amplified output.
-
-### Smart Dental Hygiene Device
-_Verilog_  
-Oct 2023 - Dec 2023
-- Designed a digital system circuit using basic logic gates and Verilog.
-- Implemented the design using Tinkercad and ModelSim HDL Simulator for testing.
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
